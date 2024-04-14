@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"  encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ejemplo1.xsl"?>
+<Automoviles>
+  <Automovil>
+    <Id>1</Id>
+    <Imagen>mercedes.png</Imagen>
+    <Marca>Mercedes Benz</Marca>
+    <Modelo>Clse GLA</Modelo>
+    <Año>2018</Año>
+    <Precio>$ 442 999.00</Precio>
+  </Automovil>
+  <Automovil>
+    <Id>2</Id>
+    <Imagen>chevrolet.png</Imagen>
+    <Marca> Chevrolet </Marca>
+    <Modelo>Sonic</Modelo>
+    <Año>2016</Año>
+    <Precio>$ 181 999.00</Precio>
+  </Automovil>
+  <Automovil>
+   <Id>3</Id>
+   <Imagen>Volkswagen.png</Imagen>
+   <Marca> Volkswagen</Marca>
+   <Modelo>Jetta</Modelo>
+   <Año>2006</Año>
+   <Precio>$ 224 999.00</Precio>
+  </Automovil>
+  <Automovil>
+   <Id>4</Id>
+   <Imagen>Nissan.png</Imagen>
+   <Marca>Nissan </Marca>
+   <Modelo>Sentra</Modelo>
+   <Año>2015</Año>
+   <Precio>$ 211 999.00</Precio>
+  </Automovil>
+  <Automovil>
+  <Id>5</Id>
+  <Imagen>jeep.png</Imagen>
+  <Marca>Jeep</Marca>
+  <Modelo>Patriot</Modelo>
+  <Año>2016</Año>
+  <Precio>$ 230 999.00</Precio>
+ </Automovil>
+</Automoviles>
